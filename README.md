@@ -1,7 +1,5 @@
 # Gruvbox color theme configuration for Tmux
 
-Theme with 'retro groove' flavor for [Tmux][github-tmux], based on Pavel Pertsev's [gruvbox colorscheme][github-grovbox] and inspired by work of [Gordon Chiam](https://gist.github.com/gchiam/4606522f513cc64b79ce).
-
 <img src="./screenshots/dark.png" title="Tmux gruvbox dark colorscheme" style="width: 100%;" />
 
 ## Install through [Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)
@@ -26,6 +24,3 @@ brew install gitmux
 ## License
 
 GPLv3 - Maciej Sypień (forked by Chris Burgin)
-
-[github-tmux]: https://github.com/tmux/tmux
-[github-gruvbox]: https://github.com/morhetz/gruvbox
